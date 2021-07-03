@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>com.surferlul.theme.blackberry</id>
   <name>IntelliJ Blackberry Theme</name>
   <version>1.0</version>
-  <vendor email="lukas@ribebaumann.de" url="http://surferlul.github.io">Surferlul</vendor>
+  <vendor email="lukasabaumann@gmail.com" url="http://surferlul.github.io">Surferlul</vendor>
 
   <description><![CDATA[
       A dark purple and magenta theme.<br>
