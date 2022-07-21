@@ -1,4 +1,4 @@
 # IDEA_Blackberry
-My Blackberry theme for ides using IDEA
+My Blackberry theme for IDEs using IDEA
 
 ![plot](pycharm.png)
